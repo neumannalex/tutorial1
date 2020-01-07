@@ -1,0 +1,9 @@
+C:\Daten\Entwicklung\MSA\MSA\bin\Debug\MSA.exe.config
+C:\Daten\Entwicklung\MSA\MSA\bin\Debug\MSA.exe
+C:\Daten\Entwicklung\MSA\MSA\bin\Debug\MSA.pdb
+C:\Daten\Entwicklung\MSA\MSA\obj\Debug\MSA.csprojAssemblyReference.cache
+C:\Daten\Entwicklung\MSA\MSA\obj\Debug\MSA.Properties.Resources.resources
+C:\Daten\Entwicklung\MSA\MSA\obj\Debug\MSA.csproj.GenerateResource.cache
+C:\Daten\Entwicklung\MSA\MSA\obj\Debug\MSA.exe
+C:\Daten\Entwicklung\MSA\MSA\obj\Debug\MSA.pdb
+C:\Daten\Entwicklung\MSA\MSA\obj\Debug\MSA.Form1.resources
